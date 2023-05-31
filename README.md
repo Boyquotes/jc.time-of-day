@@ -2,7 +2,8 @@
 ToD plugin for godot 4.
 ---------------------------------------------
 
-![75e3+F](https://github.com/7Arz/jc.time-of-day/assets/75779389/cc8979d8-0e6e-4cf5-8381-a0e5afa3f26b)
+
+![_Ork76](https://github.com/7Arz/jc.time-of-day/assets/75779389/5d3e5f9a-b679-4a18-9525-6b91a478a261)
 
 
 ## Status:
